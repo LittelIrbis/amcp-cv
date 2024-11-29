@@ -17,6 +17,10 @@
   - Adobe Photoshop
   - Blender
 
+### Учебные проекты
+- [Day of week](https://github.com/amcp-pit/op24-task4-dayofweek-LittelIrbis)
+- [Calender](https://github.com/amcp-pit/op24-task5-calendar-LittelIrbis)
+
 # Иностранные языки
 - Английским B1
 
